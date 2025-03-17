@@ -1,0 +1,13 @@
+/* css/style.css */
+body {
+  background-color: #f7f7f7;
+}
+
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+table {
+  margin-top: 20px;
+}
